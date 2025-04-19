@@ -9,8 +9,8 @@ Aplikasi web ini dikembangkan sebagai solusi digital untuk mengelola dan memanta
 - Pemilihan tahun periode pemerintahan dilakukan saat login.
 - Admin:
   - Username dan password telah di-hardcode untuk alasan keamanan (hanya ada 1 admin).
-    admin_username = 'dinsosp3ap2kb'
-    admin_password = 'dinsos123'
+    - admin_username = 'dinsosp3ap2kb'
+    - admin_password = 'dinsos123'
   
   - User:
     - Dapat membuat akun baru.
@@ -42,15 +42,19 @@ Aplikasi web ini dikembangkan sebagai solusi digital untuk mengelola dan memanta
 ## 📸 Cuplikan Tampilan
 
 - Halaman login
+  
   ![image](https://github.com/user-attachments/assets/4825f846-f7e6-4ef1-bca7-731040ef67a5)
 
 - Dashboard admin
+  
   ![image](https://github.com/user-attachments/assets/9949c90e-017e-4e9e-a67b-67001e1e26b1)
 
 - Dashboard user (bidang)
+  
   ![image](https://github.com/user-attachments/assets/e70ce228-ac6a-4317-a45c-d9a29eb6951c)
 
 - Fitur cetak laporan
+  
   ![image](https://github.com/user-attachments/assets/a24e9b4f-fb8c-4083-879c-affb91f43f5b)
   ![image](https://github.com/user-attachments/assets/9a5a6df6-2806-4017-bb29-49a2b3af0400)
 
